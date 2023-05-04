@@ -1,0 +1,239 @@
+# teen-tech
+<html>
+    <head>
+        <title>
+            ttc
+        </title>
+    </head>
+    <body>
+       <style>
+            h2 {
+                color: ghostwhite;
+                font-size: 18px;
+                font-family: Helvetica;
+            }
+            h1{color: whitesmoke;
+                font-size: 35px;
+                font-family: Helvetica;}
+                h3{color: whitesmoke;
+                font-size: 18px;
+                font-family: Helvetica;}
+        </style>
+        <style>
+    body {
+  background-image: url(https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?cs=srgb&dl=pexels-felix-mittermeier-956999.jpg&fm=jpg); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+
+
+
+    </style>
+        <h1><center>Welcome to teen tech video webpage</center></h1>
+        <h2><center>this is the webpage where the people of teen tech intern videos are
+        </center></h2>
+        <h3><center> the intrens are Selena, Peter, Simon, chirstian, chistine, Ramzi</center></h3>
+        <style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/unnamed.jpg" alt="selena" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/20230411_181501%20(1).jpg" alt="" style="width:1000px" "height:1000px">
+  </div>
+  <div class="column">
+    <img src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/IMG_4358.jpg" alt="Mountains" style="width:100%">
+  </div>
+  <div class="column">
+<img src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/IMG_7904.jpg" style="width:700px;height:700px;"></div>
+
+<div class="column">
+<img src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/IMG_20230427_163629_735.jpg"  style="width:700px;height:700px;">
+</div>
+<div class="column">
+<img src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/Screenshot_20230419-180209_Snapchat%20(1).jpg" style="width:700px;height:700px;"></div>
+        <a href="https://www.youtube.com/watch?v=zwA3BXqHp9A" target="_blank"><center>
+            selena video
+    
+        <center></a>
+            <style>
+a:link {
+  color: hotpink;
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 28px;
+}
+a:visited {
+  color: greenyellow;
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 28px;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+  font-size: 28px;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+  font-size: 28px;
+}
+</style>
+
+<li>
+        <audio controls>
+            <source src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/Cry%20Baby.mp3" type="audio/mp3">
+         </audio>
+    </li>
+
+
+  <div class="bg-music"> 
+  <audio src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/Cry%20Baby.mp3" controls>
+    <p> Error your browser Dosen't support Fire Beats Like This One!!!</p>
+    </audio>
+  </div>
+
+
+
+  <a href="https://www.youtube.com/watch?v=zwA3BXqHp9A" target="_blank"><center>
+            peter video
+        <center></a>
+            <div class="bg-music"> 
+  <audio src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/I%20Spy%20Song%20(CLEAN).mp3" controls>
+    <p> Error your browser Dosen't support Fire Beats Like This One!!!</p>
+    </audio>
+  </div>
+
+
+
+  <a href="https://www.youtube.com/watch?v=zwA3BXqHp9A" target="_blank"><center>
+            simon video
+        <center></a>
+            <div class="bg-music"> 
+  <audio src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/Post%20Malone%20-%20Sunflower%20(Clean)%20ft.%20Swae%20Lee.mp3" controls>
+    <p> Error your browser Dosen't support Fire Beats Like This One!!!</p>
+    </audio>
+  </div>
+
+
+
+
+<a href="https://www.youtube.com/watch?v=zwA3BXqHp9A" target="_blank"><center>
+            christian video
+        <center></a>
+            <div class="bg-music"> 
+  <audio src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/Unforgettable%20-%20French%20Montana%20(Feat.%20Swae%20Lee)%20%20%20Lyrics%20Video%20(Clean%20Version).mp3" controls>
+    <p> Error your browser Dosen't support Fire Beats Like This One!!!</p>
+    </audio>
+  </div>
+
+    <a href="https://www.youtube.com/watch?v=zwA3BXqHp9A" target="_blank">
+        <center>
+            christine video
+        <center></a>
+            <div class="bg-music"> 
+  <audio src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/grentperez%20-%20Ego%20(Official%20Music%20Video).mp3" controls>
+<p> Error your browser Dosen't support Fire Beats Like This One!!!</p>
+    </audio>
+  </div>
+    <a href="https://www.youtube.com/watch?v=zwA3BXqHp9A" target="_blank"><center>
+            Ramzi video
+        <center></a>
+            <div class="bg-music"> 
+  <audio src=" file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/Aaron%20Smith%20-%20Dancin%20(KRONO%20Remix)%20-%20Lyrics.mp3" controls>
+
+    <p> Error your browser Dosen't support Fire Beats Like This One!!!</p>
+    </audio>
+  </div>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+</head>
+<body>
+<center><div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">Link 1</a>
+    <a href="https://youtu.be/KUVvlqg1g5s" target="_blank">Link 2</a>
+    <a href="https://youtu.be/EpX1_YJPGAY" target="_blank">Link 3</a>
+  </div>
+</div></center>
+<p style="color:whitesmoke;font-size:28px;">and here is the man who made this website Ramadan click the drop out and find me</p>
+
+<p style="color:whitesmoke;font-size: 28px;">the one the only THE PERSON WHO RUN TEEN TECH WITH A SMILE, OLI</p>
+<center><img src="file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/748E9E28-A799-4CA2-B02A-B6F1230A114B.jpeg" style="width:700px;height:700px;"></center>
+
+<audio src=" file:///C:/Users/brian/Desktop/TTI%20Internship%2022-23_DO%20NOT%20DELETE/ramadan%20Final%20project/Pharrell%20Williams%20-%20Happy%20(Video).mp3" controls>
+
+    <p> Error your browser Dosen't support Fire Beats Like This One!!!</p>
+    </audio>
+  </div>
+</html>
